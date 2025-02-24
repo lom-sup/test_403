@@ -1,0 +1,26 @@
+# Python 바이트코드 및 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상 환경 폴더 (예: venv, env)
+env/
+venv/
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# 로그 파일
+*.log
+logs/
+
+# 환경변수 파일
+.env
+
+# 테스트 캐시
+.pytest_cache/
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+
